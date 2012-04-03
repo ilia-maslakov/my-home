@@ -1,0 +1,5 @@
+
+[editor]
+ctrl-T=MarkAll:-1;ExecuteScript:7;
+meta-e=Unmark:-1;Goto:-1;
+meta-Ñ=MarkDown:-1;Cut:-1;Down:-1;Down:-1;Paste:-1;
